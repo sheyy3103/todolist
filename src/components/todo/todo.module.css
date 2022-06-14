@@ -1,0 +1,41 @@
+.formTodo{
+    padding: 15px;
+    margin-left: 40%;
+}
+.table{
+    text-align: right;
+    width: 100%;
+    padding: 20px;
+    background-color: lightblue;
+    margin-top: 3%;
+}
+.uwu{
+    text-align: center;
+    width: 15%;
+}
+th{
+    text-align: left;
+}
+.add{
+    background-color: lightgreen;
+    text-transform: uppercase;
+}
+.edit{
+    border-color: cornflowerblue;
+    background-color: cornflowerblue;
+    color: azure;
+    text-transform: uppercase;
+}
+.delete{
+    border-color: rgb(203, 22, 22);
+    background-color: rgb(203, 22, 22);
+    color: azure;
+    text-transform: uppercase;
+}
+.changeStatus{
+    border-color: darkgreen;
+    background-color: darkgreen;
+    color: azure;
+    text-transform: uppercase;
+}
+
